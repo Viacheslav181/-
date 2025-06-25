@@ -1,0 +1,22 @@
+C:\Users\slava\OneDrive\Рабочий стол\Літня практика\GraphingCalculator\obj\Debug\GraphingCalculator.csproj.AssemblyReference.cache
+C:\Users\slava\OneDrive\Рабочий стол\Літня практика\GraphingCalculator\obj\Debug\GraphingCalculator.Form1.resources
+C:\Users\slava\OneDrive\Рабочий стол\Літня практика\GraphingCalculator\obj\Debug\GraphingCalculator.Form2.resources
+C:\Users\slava\OneDrive\Рабочий стол\Літня практика\GraphingCalculator\obj\Debug\GraphingCalculator.csproj.GenerateResource.cache
+C:\Users\slava\OneDrive\Рабочий стол\Літня практика\GraphingCalculator\bin\Debug\GraphingCalculator.exe.config
+C:\Users\slava\OneDrive\Рабочий стол\Літня практика\GraphingCalculator\bin\Debug\GraphingCalculator.exe
+C:\Users\slava\OneDrive\Рабочий стол\Літня практика\GraphingCalculator\bin\Debug\GraphingCalculator.pdb
+C:\Users\slava\OneDrive\Рабочий стол\Літня практика\GraphingCalculator\obj\Debug\GraphingCalculator.Properties.Resources.resources
+C:\Users\slava\OneDrive\Рабочий стол\Літня практика\GraphingCalculator\obj\Debug\GraphingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\Літня практика\GraphingCalculator\obj\Debug\GraphingCalculator.exe
+C:\Users\slava\OneDrive\Рабочий стол\Літня практика\GraphingCalculator\obj\Debug\GraphingCalculator.pdb
+C:\Users\slava\OneDrive\Рабочий стол\RGR\GraphingCalculator\obj\Debug\GraphingCalculator.csproj.AssemblyReference.cache
+C:\Users\slava\OneDrive\Рабочий стол\RGR\GraphingCalculator\obj\Debug\GraphingCalculator.Form1.resources
+C:\Users\slava\OneDrive\Рабочий стол\RGR\GraphingCalculator\obj\Debug\GraphingCalculator.Form2.resources
+C:\Users\slava\OneDrive\Рабочий стол\RGR\GraphingCalculator\obj\Debug\GraphingCalculator.Properties.Resources.resources
+C:\Users\slava\OneDrive\Рабочий стол\RGR\GraphingCalculator\obj\Debug\GraphingCalculator.csproj.GenerateResource.cache
+C:\Users\slava\OneDrive\Рабочий стол\RGR\GraphingCalculator\obj\Debug\GraphingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\RGR\GraphingCalculator\obj\Debug\GraphingCalculator.exe
+C:\Users\slava\OneDrive\Рабочий стол\RGR\GraphingCalculator\obj\Debug\GraphingCalculator.pdb
+C:\Users\slava\OneDrive\Рабочий стол\RGR\GraphingCalculator\bin\Debug\GraphingCalculator.exe.config
+C:\Users\slava\OneDrive\Рабочий стол\RGR\GraphingCalculator\bin\Debug\GraphingCalculator.exe
+C:\Users\slava\OneDrive\Рабочий стол\RGR\GraphingCalculator\bin\Debug\GraphingCalculator.pdb
